@@ -4,7 +4,7 @@
 The paper is under review, the code of paper is coming soonly.
 
 ## Poster
-![Poster](./poster.png)
+![Poster](https://github.com/928082786/pnoiseattack/blob/main/poster.png)
 
 ## The demo of poisoned data on different datasets
-![Demo](./appendix_demo.png)
+![Demo](https://github.com/928082786/pnoiseattack/blob/main/appendix_demo.png)
